@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnCjNnOpQ4o=",
+  "success": true,
+  "projectFilePath": "/Users/ninahuynh/RiderProjects/WebApplication1/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/ninahuynh/.nuget/packages/bootstrap/5.3.3/bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
